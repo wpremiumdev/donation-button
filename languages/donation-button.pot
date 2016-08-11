@@ -1,0 +1,1223 @@
+# Copyright (C) 2016 Donation Button
+# This file is distributed under the same license as the Donation Button package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Donation Button 1.4.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/donation-button\n"
+"POT-Creation-Date: 2016-03-18 05:48:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/class-donation-button-admin.php:96
+msgctxt "post type general name"
+msgid "Goals"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:97
+msgctxt "post type singular name"
+msgid "Goal"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:98
+msgctxt "admin menu"
+msgid "Goal"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:99
+msgctxt "add new on admin bar"
+msgid "Goals"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:100
+msgctxt "Goal"
+msgid "Add New Goal"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:101
+msgid "Add New Goal"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:102
+msgid "New Goal"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:103
+msgid "Edit Goal"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:104
+msgid "View Goal"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:105
+msgid "All Goals"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:106
+msgid "Search Goals"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:107
+msgid "Parent Goals:"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:108
+msgid "No Goals found."
+msgstr ""
+
+#: admin/class-donation-button-admin.php:109
+msgid "No Goals found in Trash."
+msgstr ""
+
+#: admin/class-donation-button-admin.php:131
+msgid "Goal Details"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:174
+msgid "Goal Detail"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:179
+#: admin/class-donation-button-admin.php:248
+#: admin/class-donation-button-admin.php:310
+#: public/class-donation-button-public.php:508
+msgid "Donation Goal Detail"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:185
+#: admin/class-donation-button-admin.php:277
+#: admin/class-donation-button-admin.php:316
+#: public/class-donation-button-public.php:515
+msgid "Donation Target Amount"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:191
+#: admin/class-donation-button-admin.php:283
+#: admin/class-donation-button-admin.php:322
+#: public/class-donation-button-public.php:522
+msgid "Start Date"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:197
+#: admin/class-donation-button-admin.php:289
+#: admin/class-donation-button-admin.php:328
+#: public/class-donation-button-public.php:529
+msgid "End Date"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:203
+msgid "Change Progress Background Color"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:206
+msgid "Change The Progress Backgroud"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:211
+msgid "Change Percentage Background Color"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:214
+msgid "Change The Percentage Background"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:218
+msgid "Change Bar Color"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:221
+msgid "Change The Progress Bar Background"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:225
+msgid "Change Percentage Font Color"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:228
+msgid "Change The Progress Bar And Font Color"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:232
+msgid "Font Color Goal Preview"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:235
+msgid "Change The Progress Bar table Background"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:243
+msgid "Hide/Show"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:295
+msgid "Display Paypal Donation Button"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:305
+msgid "Goal Preview"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:396
+msgid "Short Code"
+msgstr ""
+
+#: admin/class-donation-button-admin.php:397
+msgid "Date"
+msgstr ""
+
+#: admin/partials/class-donation-button-admin-widget.php:14
+msgid "PayPal Donation"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:74
+msgid "Email settings"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:74
+msgid ""
+"Set your own sender name and email address. Default WordPress values will be "
+"used if empty."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:76
+#: admin/partials/class-donation-button-general-setting.php:83
+msgid "Enable/Disable"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:78
+msgid "Enable this email notification for donor"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:85
+msgid "Enable this email notification for website admin"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:90
+msgid "\"From\" Name"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:99
+msgid "\"From\" Email Address"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:111
+msgid "Email subject"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:121
+msgid "Email body"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:122
+msgid ""
+"The text to appear in the Donation Email. Please read more Help section(tab) "
+"for more dynamic tag"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:137
+msgid "Some dynamic tags can be included in your email template :"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:139
+msgid "<strong>%blog_url%</strong> : will be replaced with your blog URL."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:140
+msgid "<strong>%home_url%</strong> : will be replaced with your home URL."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:141
+msgid "<strong>%blog_name%</strong> : will be replaced with your blog name."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:142
+msgid ""
+"<strong>%blog_description%</strong> : will be replaced with your blog "
+"description."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:143
+msgid "<strong>%admin_email%</strong> : will be replaced with admin email."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:144
+msgid ""
+"<strong>%date%</strong> : will be replaced with current date, as formatted "
+"in <a href=\"options-general.php\">general options</a>."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:145
+msgid ""
+"<strong>%time%</strong> : will be replaced with current time, as formatted "
+"in <a href=\"options-general.php\">general options</a>."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:146
+msgid ""
+"<strong>%txn_id%</strong> : will be replaced with PayPal donation "
+"transaction ID."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:147
+msgid ""
+"<strong>%receiver_email%</strong> : will be replaced with PayPal donation "
+"receiver email address%."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:148
+msgid ""
+"<strong>%payment_date%</strong> : will be replaced with PayPal donation date"
+"%."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:149
+msgid ""
+"<strong>%first_name%</strong> : will be replaced with PayPal donation first "
+"name%."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:150
+msgid ""
+"<strong>%last_name%</strong> : will be replaced with PayPal donation last "
+"name%."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:151
+msgid ""
+"<strong>%mc_currency%</strong> : will be replaced with PayPal donation "
+"currency like USD"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:152
+msgid ""
+"<strong>%mc_gross%</strong> : will be replaced with PayPal donation amount"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:163
+#: admin/partials/class-donation-button-general-setting.php:350
+#: admin/partials/class-donation-button-general-setting.php:553
+#: admin/partials/class-donation-button-general-setting.php:651
+#: admin/partials/class-donation-button-general-setting.php:767
+#: admin/partials/class-donation-button-general-setting.php:883
+#: admin/partials/class-donation-button-general-setting.php:1008
+#: admin/partials/class-donation-button-general-setting.php:1128
+#: admin/partials/class-donation-button-general-setting.php:1276
+msgid "Save changes"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:174
+msgid "PayPal Account Setup"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:176
+#: admin/partials/class-donation-button-general-setting.php:179
+msgid "Enable PayPal sandbox"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:182
+msgid ""
+"PayPal sandbox can be used to test payments. Sign up for a developer account "
+"<a href=\"%s\">here</a>."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:185
+msgid "PayPal Email Address or Merchant Account ID"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:188
+msgid ""
+"This is the Paypal Email Address or Merchant Account ID where the payments "
+"will go."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:195
+msgid "Currency"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:196
+msgid ""
+"This is the currency for your visitors to make Payments or Donations in."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:205
+msgid "Optional Settings"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:207
+msgid "Button Label"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:210
+msgid "PayPal donation button label  (Optional)."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:216
+msgid "Return Page"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:218
+msgid ""
+"URL to which the donator comes to after completing the donation; for "
+"example, a URL on your site that displays a \"Thank you for your donation\"."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:225
+#: admin/partials/class-donation-button-list.php:81
+msgid "Amount"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:228
+msgid "The default amount for a donation (Optional)."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:232
+msgid "Purpose"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:235
+msgid "The default purpose of a donation (Optional)."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:241
+msgid "Reference"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:244
+msgid "Default reference for the donation (Optional)."
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Donation Button 1.4.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: admin/partials/class-donation-button-general-setting.php:250
+msgid "Donation Button"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:252
+msgid "Select Donation Button"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:256
+msgid "Select Button."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:258
+msgid ""
+"<img style=\"vertical-align: middle;\" alt=\"small\" src=\"https://www."
+"paypal.com/en_US/i/btn/btn_donate_SM.gif\">"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:259
+msgid ""
+"<img style=\"vertical-align: middle;\" alt=\"large\" src=\"https://www."
+"paypal.com/en_US/i/btn/btn_donate_LG.gif\">"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:260
+msgid ""
+"<img style=\"vertical-align: middle;\" alt=\"cards\" src=\"https://www."
+"paypal.com/en_US/i/btn/btn_donateCC_LG.gif\">"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:261
+msgid ""
+"<img style=\"vertical-align: middle;\" alt=\"cards\" src=\"https://www."
+"paypalobjects.com/webstatic/en_US/btn/btn_donate_74x21.png\">"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:262
+msgid ""
+"<img style=\"vertical-align: middle;\" alt=\"cards\" src=\"https://www."
+"paypalobjects.com/webstatic/en_US/btn/btn_donate_92x26.png\">"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:263
+msgid ""
+"<img style=\"vertical-align: middle;\" alt=\"cards\" src=\"https://www."
+"paypalobjects.com/webstatic/en_US/btn/btn_donate_cc_147x47.png\">"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:264
+msgid ""
+"<img style=\"vertical-align: middle;\" alt=\"cards\" src=\"https://www."
+"paypalobjects.com/webstatic/en_US/btn/btn_donate_pp_142x27.png\">"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:265
+msgid ""
+"<img style=\"vertical-align: middle;\" alt=\"cards\" src=\"https://www."
+"paypalobjects.com/en_AU/i/btn/x-click-but11.gif\">"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:266
+msgid ""
+"<img style=\"vertical-align: middle;\" alt=\"cards\" src=\"https://www."
+"paypalobjects.com/en_AU/i/btn/x-click-but21.gif\">"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:267
+msgid ""
+"Custom Button ( If you select this option then pleae enter url in Custom "
+"Button textbox, Otherwise donation button will not display. )"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:271
+#: admin/partials/class-donation-button-general-setting.php:535
+#: admin/partials/class-donation-button-general-setting.php:633
+#: admin/partials/class-donation-button-general-setting.php:749
+#: admin/partials/class-donation-button-general-setting.php:865
+#: admin/partials/class-donation-button-general-setting.php:987
+#: admin/partials/class-donation-button-general-setting.php:1110
+msgid "Debug Log"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:274
+#: admin/partials/class-donation-button-general-setting.php:538
+#: admin/partials/class-donation-button-general-setting.php:636
+#: admin/partials/class-donation-button-general-setting.php:752
+#: admin/partials/class-donation-button-general-setting.php:868
+#: admin/partials/class-donation-button-general-setting.php:990
+#: admin/partials/class-donation-button-general-setting.php:1113
+msgid "Enable logging"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:276
+msgid "Log General events, inside <code>%s</code>"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:279
+msgid "Custom Button"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:282
+msgid "Enter a URL to a custom donation button."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:359
+msgid "United Arab Emirates Dirham"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:360
+msgid "Australian Dollars"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:361
+msgid "Bangladeshi Taka"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:362
+msgid "Brazilian Real"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:363
+msgid "Bulgarian Lev"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:364
+msgid "Canadian Dollars"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:365
+msgid "Chilean Peso"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:366
+msgid "Chinese Yuan"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:367
+msgid "Colombian Peso"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:368
+msgid "Czech Koruna"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:369
+msgid "Danish Krone"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:370
+msgid "Dominican Peso"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:371
+msgid "Euros"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:372
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:373
+msgid "Croatia kuna"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:374
+msgid "Hungarian Forint"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:375
+msgid "Icelandic krona"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:376
+msgid "Indonesia Rupiah"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:377
+msgid "Indian Rupee"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:378
+msgid "Nepali Rupee"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:379
+msgid "Israeli Shekel"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:380
+msgid "Japanese Yen"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:381
+msgid "Lao Kip"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:382
+msgid "South Korean Won"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:383
+msgid "Malaysian Ringgits"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:384
+msgid "Mexican Peso"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:385
+msgid "Nigerian Naira"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:386
+msgid "Norwegian Krone"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:387
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:388
+msgid "Paraguayan Guaraní"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:389
+msgid "Philippine Pesos"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:390
+msgid "Polish Zloty"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:391
+msgid "Pounds Sterling"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:392
+msgid "Romanian Leu"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:393
+msgid "Russian Ruble"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:394
+msgid "Singapore Dollar"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:395
+msgid "South African rand"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:396
+msgid "Swedish Krona"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:397
+msgid "Swiss Franc"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:398
+msgid "Taiwan New Dollars"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:399
+msgid "Thai Baht"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:400
+msgid "Turkish Lira"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:401
+msgid "US Dollars"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:402
+msgid "Vietnamese Dong"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:403
+msgid "Egyptian Pound"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:511
+msgid "MailChimp Integration"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:512
+msgid "Enable MailChimp"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:514
+msgid "MailChimp API Key"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:515
+msgid ""
+"Enter your API Key. <a target=\"_blank\" href=\"http://admin.mailchimp.com/"
+"account/api-key-popup\">Get your API key</a>"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:521
+msgid "MailChimp lists"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:522
+msgid ""
+"After you add your MailChimp API Key above and save it this list will be "
+"populated."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:529
+msgid "Force MailChimp lists refresh"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:530
+msgid ""
+"Check and 'Save changes' this if you've added a new MailChimp list and it's "
+"not showing in the list above."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:540
+msgid "Log Mailchimp events, inside <code>%s</code>"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:575
+msgid "Unable to load MailChimp lists, check your API Key."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:585
+msgid "You have not created any lists at MailChimp"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:609
+msgid "Getresponse Integration"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:610
+msgid "Enable Getresponse"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:612
+msgid "Getresponse API Key"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:613
+msgid ""
+"Enter your API Key. <a target=\"_blank\" href=\"https://app.getresponse.com/"
+"account.html#api\">Get your API key</a>"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:619
+msgid "Getresponse lists"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:620
+msgid ""
+"After you add your Getresponse API Key above and save it this list will be "
+"populated."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:627
+msgid "Force Getresponse lists refresh"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:628
+msgid ""
+"Check and 'Save changes' this if you've added a new Getresponse list and "
+"it's not showing in the list above."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:638
+msgid "Log Getresponse events, inside <code>%s</code>"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:688
+msgid "Unable to load Getresponse lists, check your API Key."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:695
+#: admin/partials/class-donation-button-general-setting.php:1170
+#: admin/partials/lib/constant_contact/constant_contact.php:23
+msgid "API Key is empty."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:711
+msgid "Icontact Integration"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:712
+msgid "Enable Icontact"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:714
+msgid "Icontact Application ID"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:715
+msgid ""
+"Obtained when you Register the API application. <a target=\"_blank\" href="
+"\"https://app.icontact.com/icp/core/registerapp/\">Get your API key</a> This "
+"identifier is used to uniquely identify your application."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:721
+msgid "Icontact Username/Email ID"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:722
+msgid ""
+"The iContact username for logging into your iContact account. If you are "
+"using the sandbox for testing, this is your sandbox environment username."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:728
+msgid "Icontact Application Password"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:729
+msgid ""
+"The API application password set when the application was registered. This "
+"API password is used as input when your application authenticates to the "
+"API. This password is not the same as the password you use to log in to "
+"iContact."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:735
+msgid "Icontact lists"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:736
+msgid ""
+"After you add your Icontact API Key above and save it this list will be "
+"populated."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:743
+msgid "Force Icontact lists refresh"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:744
+msgid ""
+"Check and 'Save changes' this if you've added a new Icontact list and it's "
+"not showing in the list above."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:754
+msgid "Log Icontact events, inside <code>%s</code>"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:816
+#: admin/partials/class-donation-button-general-setting.php:936
+msgid "Required information is empty."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:833
+msgid "Infusionsoft Integration"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:834
+msgid "Enable Infusionsoft"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:836
+msgid "Infusionsoft API Key"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:837
+msgid "Enter Infusionsoft API Key"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:843
+msgid "Infusionsoft Application Name"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:844
+msgid "Enter Infusionsoft Application Name."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:851
+msgid "Infusionsoft lists"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:852
+msgid ""
+"After you add your Infusionsoft API Key above and save it this list will be "
+"populated."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:859
+msgid "Force Infusionsoft lists refresh"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:860
+msgid ""
+"Check and 'Save changes' this if you've added a new Infusionsoft list and "
+"it's not showing in the list above."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:870
+msgid "Log Infusionsoft events, inside <code>%s</code>"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:951
+msgid "Constant Contact Integration"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:953
+msgid "Enable Constant Contact"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:956
+msgid "Constant Contact API Key"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:957
+msgid ""
+"Enter your API Key. <a target=\"_blank\" href=\"https://constantcontact."
+"mashery.com/apps/mykeys\">Get your API key</a>"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:963
+msgid "Constant Contact Access Token"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:964
+msgid "Enter Your Access Token"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:971
+msgid "Constant Contact lists"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:972
+msgid ""
+"After you add your Constant Contact API Key above and save it this list will "
+"be populated."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:980
+msgid "Force Constant Contact lists refresh"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:981
+msgid ""
+"Check and 'Save changes' this if you've added a new Constant Contact list "
+"and it's not showing in the list above."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:992
+msgid "Log Constant Contact events, inside <code>%s</code>"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1053
+#: admin/partials/class-donation-button-general-setting.php:1058
+msgid "Unable to load Constant Contact lists, check your API Key."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1079
+msgid "Campaign Monitor Integration"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1080
+msgid "Enable Campaign Monitor"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1082
+msgid "Campaign Monitor API Key"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1083
+msgid ""
+"Enter your API Key. <a target=\"_blank\" href=\"https://login.createsend.com/"
+"l\">Get your API key And Client Id</a>"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1089
+msgid "Campaign Monitor Client ID"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1090
+msgid "Enter Campaign Monitor Client ID."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1096
+msgid "Campaign Monitor lists"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1097
+msgid ""
+"After you add your Campaign Monitor API Key above and save it this list will "
+"be populated."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1104
+msgid "Force Campaign Monitor lists refresh"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1105
+msgid ""
+"Check and 'Save changes' this if you've added a new Campaign Monitor list "
+"and it's not showing in the list above."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1115
+msgid "Log Campaign Monitor events, inside <code>%s</code>"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1163
+msgid "Unable to load Campaign Monitor lists, check your API Key."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1186
+msgid "Admin Notifications"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1188
+msgid "Enable new order SMS admin notifications."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1194
+msgid "Admin Mobile Number"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1196
+msgid ""
+"Enter the mobile number (starting with the country code) where the New Order "
+"SMS should be sent. Send to multiple recipients by separating numbers with "
+"commas."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1201
+msgid "Admin SMS Message"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1203
+msgid ""
+"Use these tags to customize your message: %first_name%, %last_name%, "
+"%receiver_email%, %payment_date%, %mc_gross%. Remember that SMS messages are "
+"limited to 160 characters."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1208
+msgid "Twilio Settings"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1210
+msgid "Account SID"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1212
+msgid "Log into your Twilio Account to find your Account SID."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1217
+msgid "Auth Token"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1219
+msgid "Log into your Twilio Account to find your Auth Token."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1224
+msgid "From Number"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1226
+msgid ""
+"Enter the number to send SMS messages from. This must be a purchased number "
+"from Twilio."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1231
+msgid ""
+"Enable this to log Twilio API errors to the log. Use this if you are having "
+"issues sending SMS."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1232
+msgid "Log Errors"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1238
+msgid "Send Test SMS"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1240
+msgid "Mobile Number"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1243
+msgid ""
+"Enter the mobile number (starting with the country code) where the test SMS "
+"should be send. Note that if you are using a trial Twilio account, this "
+"number must be verified first."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1248
+msgid "Message"
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1251
+msgid "Remember that SMS messages are limited to 160 characters."
+msgstr ""
+
+#: admin/partials/class-donation-button-general-setting.php:1270
+msgid "Send"
+msgstr ""
+
+#: admin/partials/class-donation-button-html-output.php:287
+msgid "Select a page&hellip;"
+msgstr ""
+
+#: admin/partials/class-donation-button-list.php:33
+#: admin/partials/class-donation-button-list.php:34
+msgid "Donation List"
+msgstr ""
+
+#: admin/partials/class-donation-button-list.php:35
+msgctxt "Admin menu name"
+msgid "Donation List"
+msgstr ""
+
+#: admin/partials/class-donation-button-list.php:36
+msgid "Add Donation List"
+msgstr ""
+
+#: admin/partials/class-donation-button-list.php:37
+msgid "Add New Donation List"
+msgstr ""
+
+#: admin/partials/class-donation-button-list.php:38
+msgid "Edit"
+msgstr ""
+
+#: admin/partials/class-donation-button-list.php:39
+#: admin/partials/class-donation-button-list.php:41
+#: admin/partials/class-donation-button-list.php:42
+msgid "View Donation List"
+msgstr ""
+
+#: admin/partials/class-donation-button-list.php:40
+msgid "New Donation List"
+msgstr ""
+
+#: admin/partials/class-donation-button-list.php:43
+msgid "Search Donation List"
+msgstr ""
+
+#: admin/partials/class-donation-button-list.php:44
+msgid "No Donation List found"
+msgstr ""
+
+#: admin/partials/class-donation-button-list.php:45
+msgid "No Donation List found in trash"
+msgstr ""
+
+#: admin/partials/class-donation-button-list.php:46
+msgid "Parent Donation List"
+msgstr ""
+
+#: admin/partials/class-donation-button-list.php:48
+msgid "This is where you can add new IPN to your store."
+msgstr ""
+
+#: admin/partials/class-donation-button-list.php:79
+msgctxt "column name"
+msgid "Transaction ID"
+msgstr ""
+
+#: admin/partials/class-donation-button-list.php:80
+msgctxt "column name"
+msgid "Name / Company"
+msgstr ""
+
+#: admin/partials/class-donation-button-list.php:82
+msgid "Transaction Type"
+msgstr ""
+
+#: admin/partials/class-donation-button-list.php:83
+msgid "Payment status"
+msgstr ""
+
+#: admin/partials/class-donation-button-list.php:84
+msgctxt "column name"
+msgid "Date"
+msgstr ""
+
+#: admin/partials/class-donation-button-list.php:143
+msgid "Donation List Fields"
+msgstr ""
+
+#: admin/partials/class-donation-button-list.php:151
+#: admin/partials/class-donation-button-list.php:157
+msgid "IPN Field Name"
+msgstr ""
+
+#: admin/partials/class-donation-button-list.php:152
+#: admin/partials/class-donation-button-list.php:158
+msgid "IPN Field Value"
+msgstr ""
+
+#: includes/class-donation-button.php:65
+msgid "Configure"
+msgstr ""
+
+#: includes/class-donation-button.php:66
+msgid "Support"
+msgstr ""
+
+#: includes/class-donation-button.php:67
+msgid "Write a Review"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Donation Button 1.4.1)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (Donation Button 1.4.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://localleadminer.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Easy to used PayPal Donation button with Auto Responder."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "mbj-webdevelopment"
+msgstr ""
